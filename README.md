@@ -1,1 +1,1 @@
-# Hospital-Management-using-SQL-
+# Hospital-Management-using-SQL
